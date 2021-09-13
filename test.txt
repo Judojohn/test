@@ -1,6 +1,7 @@
-the test of tests and branches
+the test of tests and branches and merges
 test 
-is 
+is
+merges
 for
 mergers
 branches
